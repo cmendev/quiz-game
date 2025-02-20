@@ -1,4 +1,3 @@
-import { Trophy } from "lucide-react";
 import { motion } from "framer-motion";
 import { CheckCircle, XCircle } from "lucide-react";
 import { Question } from "../types/quiz";
